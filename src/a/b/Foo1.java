@@ -6,6 +6,14 @@ package a.b;
 public class Foo1 {
 
     String str1;
+    int aaa;
+    public Foo1(int aaaaaaArg) {
+        aaa = aaaaaaArg;
+    }
+
+    public int getAaa() {
+        return aaa;
+    }
 
     public String getStr1() {
         return str1;
