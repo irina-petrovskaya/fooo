@@ -3,7 +3,7 @@ package a.b;
 /**
  * by Irina.Petrovskaya on 10/14/2014.
  */
-public class Clazz1 {
+public class Foo1 {
 
     String str1;
 
