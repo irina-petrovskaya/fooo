@@ -5,8 +5,8 @@ package a.b;
  */
 public class Foo1 {
 
-    String str1;
-    int aaa;
+    private String str1;
+    private int aaa;
     public Foo1(int aaaaaaArg) {
         aaa = aaaaaaArg;
     }
