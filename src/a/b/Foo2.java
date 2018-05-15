@@ -5,7 +5,7 @@ package a.b;
  */
 public class Foo2 extends Foo1{
 
-    public Foo2(int aaaaaaArg) {
-        super(aaaaaaArg);
+    public Foo2(int arg) {
+        super(arg);
     }
 }
