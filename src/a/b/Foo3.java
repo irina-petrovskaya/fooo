@@ -10,7 +10,7 @@ public class Foo3 {
     String aaa;
 
     public String getAaa() {
-        return aaa;
+        return aaa; //
     }
 
     public void setAaa(String aaa) {
