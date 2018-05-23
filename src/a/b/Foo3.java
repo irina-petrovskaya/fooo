@@ -8,4 +8,12 @@ package a.b;
  */
 public class Foo3 {
     String aaa;
+
+    public String getAaa() {
+        return aaa;
+    }
+
+    public void setAaa(String aaa) {
+        this.aaa = aaa;
+    }
 }
