@@ -3,13 +3,15 @@ package a.b;
 /**
  * by Irina.Petrovskaya on 10/14/2014.
  *
+ *
+ *
  */
 public class Foo1 {
 
     private String str1;
     private int aaa;
 
-    public Foo1(int aaaaaaArg) {
+    Foo1(int aaaaaaArg) {
         aaa = aaaaaaArg;
     }
 
