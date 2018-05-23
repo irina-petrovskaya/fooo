@@ -7,4 +7,5 @@ package a.b;
  * *******************************
  */
 public class Foo3 {
+    String aaa;
 }
