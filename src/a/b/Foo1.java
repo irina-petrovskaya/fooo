@@ -9,8 +9,8 @@ public class Foo1 {
 
     private int aaa;
 
-    Foo1(int aaaaaaArg) {
-        aaa = aaaaaaArg;
+    Foo1(int arg) {
+        aaa = arg;
     }
 
     public int getAaa() {
