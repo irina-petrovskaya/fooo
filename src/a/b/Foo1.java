@@ -6,6 +6,7 @@ package a.b;
 public class Foo1 {
 
     private String str1;
+
     private int aaa;
 
     Foo1(int aaaaaaArg) {
