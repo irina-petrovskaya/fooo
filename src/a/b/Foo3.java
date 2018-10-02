@@ -7,6 +7,7 @@ package a.b;
  * *******************************
  */
 public class Foo3 {
+
     private String aaa;
 
     public String getAaa() {
