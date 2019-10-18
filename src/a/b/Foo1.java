@@ -7,7 +7,7 @@ public class Foo1 {
 
     private String str1;
 
-    private int aaa;//  kkjjjjjj
+    private int aaa;//  kkjjjggggggjjj
 
     Foo1(int arg) {
         aaa = arg;
